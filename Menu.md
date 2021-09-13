@@ -1,5 +1,7 @@
 # KU Cafe Menu
 
+Breakfast | Lunch | Dinner | Night Food | [Beverages](#beverages)
+
 
 ## Breakfast
 
@@ -18,6 +20,11 @@
 
 ## Beverages
 
+| Item                            | Price |
+|:--------------------------------|------:|
+| Bai Deoi herbal drink           | 12 Bt |
+| Hot Coffee                      | 25 Bt |
+| KU Drinking Water, 600 ml       | 10 Bt |
 
 
 ---
